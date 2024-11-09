@@ -19,19 +19,35 @@ Germany
 - Luminous by Aleph Alpha ([app.aleph-alpha.com](https://app.aleph-alpha.com))
 
 
+
 ### Open (Weights & Biases)
 
 USA
 - Llama ([llama.com](https://www.llama.com)) by Meta (Facebook)
+  - @ Hugging Face [Meta Llama Models](https://huggingface.co/meta-llama)
+  - @ Ollama [Llama 3.1](https://ollama.com/library/llama3.1),
+    [Llama 3.2](https://ollama.com/library/llama3.2), and others
+- Gemma by Google
+  - @ Hugging Face [Google Models](https://huggingface.co/google)
+  - @ Ollama [Gemma](https://ollama.com/library/gemma), [Gemma 2](https://ollama.com/library/gemma2), and others
 
 France
-- Mistral by Mistral ([mistral.ai](https://mistral.ai))
-
+- Mistral by Mistral AI ([mistral.ai](https://mistral.ai))
+  - @ Hugging Face [Mistral AI Models](https://huggingface.co/mistralai)
+  - @ Ollama [Mistral](https://ollama.com/library/mistral), [Mixtral](https://ollama.com/library/mixtral), and others
 
 
 More Open LLMs
 
-[**List of Open LLMs**](https://github.com/eugeneyan/open-llms) by Eugene Yan
+- [**Models @ Ollama**](https://ollama.com/library)
+- [**Open LLM Leaderboard (V2) @ Hugging Face**](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
+- [**Open LLM Leaderboard Archive (V1) @ Hugging Face**](https://huggingface.co/spaces/open-llm-leaderboard-old/open_llm_leaderboard) - ran from April 2023 to June 2024
+- [**List of Open LLMs**](https://github.com/eugeneyan/open-llms) by Eugene Yan
+
+
+More LLMS
+- [**Foundation Model Transparency Index @ Stanford University**](https://crfm.stanford.edu/fmti) by Center for Research on Foundation Models (aka LLMs)
+
 
 
 
@@ -64,7 +80,7 @@ Ashish Vaswani et al, Jun 2017
 
 [**Awesome Generative AI**](https://github.com/steven2358/awesome-generative-ai) by Steven Van Vaerenbergh
 
-[**Awesome ChatGPT Prompts**](https://github.com/f/awesome-chatgpt-prompts) by Fatih Kadir Akın
+[**Awesome ChatGPT Prompts**](https://github.com/f/awesome-chatgpt-prompts) by Fatih Kadir Akın;  all prompts as a tabular dataset in [prompts.csv](https://github.com/f/awesome-chatgpt-prompts/blob/main/prompts.csv)
 
 
 
